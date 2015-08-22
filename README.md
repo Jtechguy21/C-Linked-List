@@ -1,4 +1,4 @@
-# C-Linked-List
+# C-Linked-List Stack Implementation
 
 Author: John Toledo
 ====================
@@ -11,6 +11,4 @@ I have added a menu that prompts the user for specified operation.
 
 This will help you visually understand how a stack-linked list should function,
 and reading through the source code may assist you in developing your very own
-linked list in C.
-
 
